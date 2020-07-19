@@ -11,7 +11,7 @@
 @10   = ~Oh zut et crotte. Je pense que je vais aller à la Couronne de Cuivre et descendre quelques verres.~
 @11   = ~Salut, <CHARNAME>, comment ça va ? Es-tu venu me dire que tu as reconsidéré ta décision de me laisser rejoindre ton groupe ?~ ~Salut, <CHARNAME>, Comment ça va ? Es-tu venue me dire que tu as reconsidéré ta décision de me laisser rejoindre ton groupe ?~ 
 @12   = ~Oui Alora, tu peux te joindre à nous. Mon objectif en ce moment est de sauver Imoen qui a été enlevée.~
-@13   = ~Oh bien bien bien ! Allons-y !~
+@13   = ~Oh chic chic chic ! Allons-y !~
 @14   = ~<CHARNAME>, c'est bien toi ? J'espère que c'est toi.~
 @15   = ~Oui c'est bien toi, tu es revenu ! Oh, je savais que tu reviendrais. Nous étions de si bons amis. Allons-nous repartir à l'aventure ?~ ~Oui, c'est bien toi, tu es revenue ! Oh, je savais que tu reviendrais. Nous étions de si bonnes amies. Allons-nous repartir à l'aventure ?~
 @16   = ~Désolé, mais je ne veux pas que tu reviennes dans le groupe pour l'instant.~ ~Désolée, mais je ne veux pas que tu reviennes dans le groupe pour l'instant.~
@@ -23,5 +23,5 @@
 @22   = ~Attends nous ici. Nous reviendrons plus tard si nous avons besoin de ton aide.~
 @23   = ~Si possible, essaye de nous attendre dans une grande taverne ou une auberge.~
 @24   = ~<CHARNAME> ! Tu es revenu ! Souhaites-tu que je voyage à nouveau avec toi ?~ ~<CHARNAME> ! Tu es revenue ! Souhaites-tu que je voyage à nouveau avec toi ?~
-@25   = ~Oui, rejoins notre groupe, Alora.~
+@25   = ~Oui, rejoins notre groupe Alora.~
 @26   = ~Non, je pense que tu devrais partir.~
