@@ -21,8 +21,8 @@
 @20   = ~Je te renvoie dans l'antichambre... Attends-moi là.~
 @21   = ~D'accord, <CHARNAME>, j'attendrai là-bas alors.~
 @22   = ~Ouais, te revoilà ! Je peux à nouveau me joindre à vous ?~
-@23   = ~Allons-y.~
-@24   = ~Reste ici en m'attendant.~
+@23   = ~D'accord, allons-y.~
+@24   = ~Pas maintenant, reste ici en m'attendant.~
 @25   = ~Oh un bébé ! C'est formidable, <CHARNAME> ! Oh ! Il est si petit et si mignon !~
 @26   = ~Waouh ! Ce serait donc Saradush ? Dommage qu'elle soit assiégée, j'aurais vraiment aimé la voir pendant qu'elle était animée par des foules de badauds.~
 @27   = ~Pourquoi donc ? Veux-tu tester tes compétences de voleuse dans une nouvelle ville ?~
@@ -34,7 +34,7 @@
 @33   = ~Pourquoi est-ce que tu dis ça ?~
 @34   = ~Oui c'est ça ! Je ne crois pas trop à ton intuition, Alora.~
 @35   = ~Après avoir été avec toi si longtemps, <CHARNAME>, je peux te cerner. Nous arrivons dans un nouvel endroit, résolvons une quête ou deux avant de continuer ! Élémentaire mon cher ! Ha !~ ~Après avoir été avec toi si longtemps, <CHARNAME>, je peux te cerner. Nous arrivons dans un nouvel endroit, résolvons une quête ou deux avant de continuer ! Élémentaire ma chère ! Ha !~
-@36   = ~Adorable, Alora, vraiment adorable. Je suppose que c'est vrai dans un sens. Je devrais changer ma façon de penser à l'avenir.~
+@36   = ~Futé, Alora, vraiment futé. Je suppose que c'est vrai dans un sens. Je devrais changer ma façon de penser à l'avenir.~
 @37   = ~C'est absurde, Alora. Tu n'as rien d'autre à dire d'intéressant ?~
 @38   = ~Tu peux essayer mais je vais m'adapter ! Ha !~
 @39   = ~Un grand méchant aujourd'hui, hein ? Bien, soit ! Je ne dirai rien de plus !~ ~Une grande méchante aujourd'hui, hein ? Bien, soit ! Je ne dirai rien de plus !~
@@ -81,7 +81,7 @@
 @80   = ~Il est temps que nous parlions !~
 @81   = ~(Edwin ne dit rien mais lance un regard interrogateur à Alora.)~
 @82   = ~Espèce d'âne prétentieux, ne me regarde pas comme ça ! Tu sais parfaitement de quoi il s'agit !~
-@83   = ~En fait non. Essaie de me l’épeler. En Commun courant si tu peux.~
+@83   = ~En fait non. Essaie de me l’épeler. En commun courant si tu peux.~
 @84   = ~J'ai enfin réalisé la personne que tu es, Edwin. Tu es un grand méchant qui ne se préoccupe de personne d'autre que de lui-même ! T-t-tu es égocentrique, arrogant et tu ne te soucies de personne, même pas de ceux qui restent à tes côtés en cas de besoin !~
 @85   = ~T-tu n'es pas mon ami !~
 @86   = ~Alora...~
