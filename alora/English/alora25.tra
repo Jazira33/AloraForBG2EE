@@ -1,4 +1,4 @@
-@0    = ~Bring me Alora, the happy go lucky thief.~
+@0    = ~Bring me Alora, the happy-go-lucky thief.~
 @1    = ~Heya, <CHARNAME>! Wow! What is this place? What's going on?~
 @2    = ~It's good to see you again, Alora. Welcome to my home away from home.~
 @3    = ~It's nice to see you again, <CHARNAME>! This place is neat!~
@@ -19,7 +19,7 @@
 @18   = ~No, stay with the party for now.~
 @19   = ~Just wait here awhile, Alora.~
 @20   = ~I'll send you back to the pocket plane...wait there.~
-@21   = ~Okay, <CHARNAME>, I will wait right here then..~
+@21   = ~Okay, <CHARNAME>, I will wait right here then.~
 @22   = ~Yay, you've come back! Will you let me join again?~
 @23   = ~Let's go then.~
 @24   = ~Keep waiting here awhile, then.~
@@ -61,7 +61,7 @@
 @60   = ~Oh, Haer, ya gonna make me blush! Yer the greatest!~
 @61   = ~I am glad to see that you and <CHARNAME> are still in love, after everything we've been through.~
 @62   = ~Thank you for the compliment. It has been hard at times, but our love has given us strength during the hard times. It's so wonderful to be in love!~
-@63   = ~That's wonderful, really it is. May your union last a life time.~
+@63   = ~That's wonderful, really it is. May your union last a lifetime.~
 @64   = ~Aerie, Can I ask you something? It's, well personal.~
 @65   = ~Sure, what is it?~
 @66   = ~I, well, I've noticed you've put on weight recently. You have tried hard to hide it, but I can tell. You also seem to have a "glow" about you also.~
@@ -72,11 +72,11 @@
 @71   = ~Hey keep it down, remember?~
 @72   = ~Oops. Sorry about that! This is joyous news it is! I'm happy for the both of you. In the meantime my lips are sealed about this.~
 @73   = ~I am glad to see that you and <CHARNAME> are still in love, after everything we've been through.~
-@74   = ~That's wonderful, really it is. I guess you are not stuffy after all, if <CHARNAME> loves you and all. May your union last a life time.~
+@74   = ~That's wonderful, really it is. I guess you are not stuffy after all, if <CHARNAME> loves you and all. May your union last a lifetime.~
 @75   = ~Alora, you have not said anything to me in a long time. Is there something troubling you?~
 @76   = ~I haven't felt like talking to you, Edwin.~
 @77   = ~Is there something I have done to offend thee? Come now, out with it.~
-@78   = ~Don't boss me around, Edwin! When *I* feel like talking to you I will. This discussion is over!~
+@78   = ~Don't boss me around, Edwin! When *I* feel like talking to you, I will. This discussion is over!~
 @79   = ~(Edwin says nothing. He is surprised and concerned at the response Alora gave him.)~
 @80   = ~It's time we talked!~
 @81   = ~(Edwin says nothing but gives Alora a questioning look.)~
@@ -88,7 +88,7 @@
 @87   = ~Well say something! Say you care about me as a friend! Say you would help *me* in a time of need, even if it meant you losing something, like your mighty status! Come on, prove me and the others wrong!~
 @88   = ~(Edwin just looks at Alora with a blank expression, saying nothing.)~
 @89   = ~(A look of hurt is on Alora's face then it turns quickly into anger.) FINE!!! We are DONE!!! You're no friend of mine anymore!~
-@90   = ~I-I... (I'm sorry Alora. I can not admit to the weakness of you being my friend, which is now lost now.)~
+@90   = ~I-I... (I'm sorry Alora. I can not admit to the weakness of you being my friend, which is lost now.)~
 @91   = ~Alora! You are severely injured! No this can not be!~
 @92   = ~(Alora looks at Edwin and says nothing. Shock is starting to set in.)~
 @93   = ~No! I will not allow this!~
