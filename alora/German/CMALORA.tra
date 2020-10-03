@@ -7,7 +7,7 @@
 @6    = ~Hey <CHARNAME>! Ich hab mich gefragt, ob ich wieder mit Dir zusammen reisen könnte. Es war ziemlich langweilig, seit dem wir uns letztes Mal getrennt hatten. Meine Diebesfähigkeiten könnten für Dich von grossem Nutzen sein. Na, wie is' es? Huh, huh?~
 @7    = ~Klare Sache, Alora! Ich habe Deine Gesellschaft vermisst *und* Deine aussergewöhnlichen Diebesfähigkeiten. Ich muss Dir aber sagen, dass es mein vorrangiges Ziel ist, Imoen zu finden, die entführt wurde. Jetzt sollten wir uns aber aus dem Staub machen, bevor der Ladenbesitzer auf die Idee kommmt, Dich zu durchsuchen.~
 @8    = ~Im Moment nicht Alora. Ich habe momentan keinen Platz.~
-@9    = ~Imoen wurde entführt?? Ich würde Dir sehr gerne helfen, sie zu finden, <CHARNAME>. Oh prima, prima, ich bin sooo glücklich, <CHARNAME>!~
+@9    = ~Imoen wurde entführt? Ich würde Dir sehr gerne helfen, sie zu finden, <CHARNAME>. Oh prima, prima, ich bin sooo glücklich, <CHARNAME>!~
 @10   = ~Oh schade, vielleicht ein anders Mal. Ich denke, ich werde zur Kupferkrone gehen und mir ein paar Drinks genehmigen.~
 @11   = ~Hallo <CHARNAME>, wie steht's denn so? Bist Du gekommen, um mir zu sagen, dass Du mich in Deiner Gruppe brauchst?~
 @12   = ~Ja, Alora, Du kannst Dich uns anschließen. Meine Absicht ist es dieses Mal, Imoen zu retten, die von uns genommen wurde.~
@@ -17,11 +17,11 @@
 @16   = ~Leider kann ich Dich in der Gruppe momentan nicht brauchen.~
 @17   = ~Sicher doch, kleine Miss. Wir werden viel Spaß haben. Willkommen zurück.~
 @18   = ~Oh verdammt! Komm zurück, wenn Du Dich anders entscheidest.~
-@19   = ~Du bist nicht die Sorte von Leuten, mit denen ich rumhängen sollte! Tschüss!~ [ALORA07]
+@19   = ~Ich glaube, Ihr seid nicht gerade der beste Umgang für mich! Macht's gut!~ [ALORA07]
 @20   = ~Ich möchte nicht gehen, aber wenn es sein muss, treibe ich mich hier ein wenig herum, bis Du zurückkommst und mich wieder mitnimmst.~
 @21   = ~Alora, warum wartest Du nicht in der Kupferkrone. Wir treffen Dich dann dort, wenn wir Dich wieder brauchen.~
 @22   = ~Warte genau hier. Wir kommen später zurück, wenn wir Deine Hilfe brauchen.~
 @23   = ~Wenn Du kannst, dann warte in einer bekannten Taverne.~
-@24   = ~<CHARNAME>!! Du bist zurück! Darf ich wieder mit Dir reisen?~
+@24   = ~<CHARNAME>! Du bist zurück! Darf ich wieder mit Dir reisen?~
 @25   = ~Ja, schliess Dich uns wieder an, Alora.~
 @26   = ~Nein, Du solltest besser gehen.~
